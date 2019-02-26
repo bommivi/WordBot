@@ -17,9 +17,11 @@ Working :
             bot  :
               Friends chatbot:
                 Definition  Synonym  Antonym   --- > options for response-user choice
-4.Then if User enters any word and clicking appropriate word bot will give response according to user choice.
+                
+4. Then if User enters any word and clicking appropriate word bot will give response according to user choice.
        Ex: User : Program and if we click on Definition then we will get the response like program definition. 
-5.If your enters morethan a single word then the bot will send response like “Please enter a single word”.
+       
+5. If your enters morethan a single word then the bot will send response like “Please enter a single word”.
 
             
 
